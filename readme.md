@@ -1,6 +1,8 @@
 # Laravel, DataTables, Bootstrap 4 and Vite
 
 Get started with Laravel, DataTables, Bootstrap and Vite in a few minutes.
+This package based on [Laravel-datatables-vite](https://yajrabox.com/docs/laravel-datatables/10)
+Thanks.
 
 ## Installation
 
@@ -26,3 +28,4 @@ Add the following to your `resources/sass/app.scss` file:
 ## Quick Starter
 
 A [quick starter guide](https://yajrabox.com/docs/laravel-datatables/10.0/quick-starter) is available at the official package docs.
+Based on [Laravel-datatables-vite](https://yajrabox.com/docs/laravel-datatables/10)
