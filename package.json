@@ -1,0 +1,40 @@
+{
+    "name": "laravel-datatables-vite-bs4",
+    "version": "1.0.0",
+    "description": "Laravel Datatables with jQuery, Bootstrap 4 and Vite",
+    "main": "js/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hanzo-asashi/laravel-datatables-vite-bs4.git"
+    },
+    "keywords": [
+        "hanzo",
+        "laravel",
+        "datatables",
+        "vitejs",
+        "bootstrap",
+        "jquery"
+    ],
+    "author": {
+        "name": "Hanzo Asashi",
+        "url": "https://github.com/hanzo-asashi"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hanzo-asashi/laravel-datatables-vite-bs4/issues"
+    },
+    "homepage": "https://github.com/hanzo-asashi/laravel-datatables-vite-bs4#readme",
+    "dependencies": {
+        "bootstrap": "^4.3.1",
+        "bootstrap-icons": "^1.9.1",
+        "datatables.net": "^1.13.4",
+        "datatables.net-bs4": "^1.13.4",
+        "datatables.net-buttons-bs4": "^2.3.6",
+        "datatables.net-select-bs4": "^1.6.2",
+        "feather-icons": "^4.29.0",
+        "jquery": "^3.6.4"
+    }
+}
